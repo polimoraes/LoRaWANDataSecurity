@@ -1,0 +1,2 @@
+LoRaWANDataSecurity	KEYWORD1
+buildEncryptedPayload	KEYWORD2
